@@ -10,12 +10,12 @@ I build user-friendly and high-performance web applications with React and TypeS
 
 ## 💻 Projects
 
-**[Cash-Flow-Mate](https://github.com/yourusername/Cash-Flow-Mate)** – Expense manager app to track finances easily.  
-**[SmartPoke](https://github.com/yourusername/SmartPoke)** – Fun app for Pokémon enthusiasts to explore and learn about Pokémon.  
-**[FundFlex](https://github.com/yourusername/FundFlex)** – Manage users and track balances seamlessly.  
-**[Remind-Me-Extension](https://github.com/yourusername/Remind-Me-Extension)** – Chrome extension to get timely reminders for calendar events.  
-**[vanilla-react-form-tabs](https://github.com/yourusername/vanilla-react-form-tabs)** – Multi-step tab-based form with validation for each step.  
-**[vanilla-react-pagination](https://github.com/yourusername/vanilla-react-pagination)** – User listing interface with dynamic pagination.  
+**[Cash-Flow-Mate](https://github.com/MihirModi14/Cash-Flow-Mate)** – Expense manager app to track finances easily. [🔗](your-link-here)  
+**[SmartPoke](https://github.com/MihirModi14/SmartPoke)** – Fun app for Pokémon enthusiasts to explore and learn about Pokémon. [🔗](your-link-here)  
+**[FundFlex](https://github.com/MihirModi14/FundFlex)** – Manage users and track balances seamlessly. [🔗](your-link-here)  
+**[Remind-Me-Extension](https://github.com/MihirModi14/Remind-Me-Extension)** – Chrome extension to get timely reminders for calendar events. [🔗](your-link-here)  
+**[vanilla-react-form-tabs](https://github.com/MihirModi14/vanilla-react-form-tabs)** – Multi-step tab-based form with validation for each step. [🔗](your-link-here)  
+**[vanilla-react-pagination](https://github.com/MihirModi14/vanilla-react-pagination)** – User listing interface with dynamic pagination. [🔗](your-link-here)  
 
 ---
 
