@@ -10,9 +10,9 @@ I build user-friendly and high-performance web applications with React and TypeS
 
 ## 💻 Projects
 
-**[Cash-Flow-Mate](https://github.com/MihirModi14/Cash-Flow-Mate)** – Expense manager app to track finances easily. [View Live ➜](https://cashflowmate.netlify.app/)  
-**[SmartPoke](https://github.com/MihirModi14/SmartPoke)** – Fun app for Pokémon enthusiasts to explore and learn about Pokémon. [View Live ➜](https://smartpoke.netlify.app/)  
 **[FundFlex](https://github.com/MihirModi14/FundFlex)** – Manage users and track balances seamlessly. [View Live ➜](https://fundflex.netlify.app/)  
+**[SmartPoke](https://github.com/MihirModi14/SmartPoke)** – Fun app for Pokémon enthusiasts to explore and learn about Pokémon. [View Live ➜](https://smartpoke.netlify.app/)  
+**[Cash-Flow-Mate](https://github.com/MihirModi14/Cash-Flow-Mate)** – Expense manager app to track finances easily. [View Live ➜](https://cashflowmate.netlify.app/)  
 **[Remind-Me-Extension](https://github.com/MihirModi14/Remind-Me-Extension)** – Chrome extension to get timely reminders for calendar events. (Work in progress)    
 **[vanilla-react-form-tabs](https://github.com/MihirModi14/vanilla-react-form-tabs)** – Multi-step tab-based form with validation for each step. [View Sandbox ➜](https://codesandbox.io/p/github/MihirModi14/vanilla-react-form-tabs)  
 **[vanilla-react-pagination](https://github.com/MihirModi14/vanilla-react-pagination)** – User listing interface with dynamic pagination. [View Sandbox ➜](https://codesandbox.io/p/github/MihirModi14/vanilla-react-pagination)
