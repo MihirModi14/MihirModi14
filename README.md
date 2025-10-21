@@ -32,4 +32,4 @@ React | Angular | TypeScript | JavaScript | HTML | CSS | Git | Docker | REST API
 ---
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/your-linkedin/) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/mihirmodi14/) | [Email](mailto:modimihir960@gmail.com)
