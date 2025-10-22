@@ -26,7 +26,7 @@ When I'm not coding, you'll find me on mountain trails 🏔️ (that's me in my 
 
 ## 🛠️ What I Work With
 
-**Right Now:** React • TypeScript • Angular • TanStack Query • Material-UI • Docker  
+**Right Now:** Javascript • React • TypeScript • Angular • HTML • CSS • Docker • Git  
 **Learning:** Node.js • Express (becoming a full-stack dev!)  
 **Approach:** Pick the right tool, solve the problem, keep it simple
 
@@ -48,7 +48,7 @@ When I'm not coding, you'll find me on mountain trails 🏔️ (that's me in my 
 
 ## 🌟 What I Care About
 
-- **Performance** - Users shouldn't wait
+- **Performance** - Keeping users happy and browsers un‑sweaty.
 - **Clean Code** - Future me should thank present me  
 - **Learning** - Currently mastering Node.js & backend
 - **Sharing** - Teaching what I learn to others
