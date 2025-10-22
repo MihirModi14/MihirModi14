@@ -14,7 +14,7 @@
 
 ---
 
-## 😎 A Little About Me
+## 😄 A Little About Me
 
 I'm a **Frontend Developer** at SmartSense who loves building things that real people use. Currently on a journey to become a **MERN stack developer** - because understanding the full picture makes everything better.
 
