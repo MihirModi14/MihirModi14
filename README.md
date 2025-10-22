@@ -34,10 +34,10 @@ When I'm not coding, you'll find me on mountain trails 🏔️ (that's me in my 
 
 ## 🎯 Projects I've Built
 
-**[FundFlex](https://fundflex.netlify.app/)** – Manage users and track balances seamlessly  
-**[SmartPoke](https://smartpoke.netlify.app/)** – Fun Pokémon explorer for enthusiasts  
-**[Cash-Flow-Mate](https://cashflowmate.netlify.app/)** – Simple expense tracking that actually works  
-**[Remind-Me Extension](https://github.com/MihirModi14/Remind-Me-Extension)** – Chrome extension for calendar reminders 🚧  
+**[FundFlex](https://github.com/MihirModi14/FundFlex)** – Manage users and track balances seamlessly [View Live ➜](https://fundflex.netlify.app/)  
+**[SmartPoke](https://github.com/MihirModi14/SmartPoke)** – Fun Pokémon explorer for enthusiasts [View Live ➜](https://smartpoke.netlify.app/)   
+**[Cash-Flow-Mate](https://github.com/MihirModi14/Cash-Flow-Mate)** – Simple expense tracking that actually works [View Live ➜](https://cashflowmate.netlify.app/)   
+**[Remind-Me-Extension](https://github.com/MihirModi14/Remind-Me-Extension)** – Chrome extension for calendar reminders (🚧 Work in progress) 
 
 **Reusable Patterns:**  
 [Multi-step Form Tabs](https://codesandbox.io/p/github/MihirModi14/vanilla-react-form-tabs) • [Dynamic Pagination](https://codesandbox.io/p/github/MihirModi14/vanilla-react-pagination)
