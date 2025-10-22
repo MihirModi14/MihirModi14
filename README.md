@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏔️ Mihir Modi
+# 🏔️ Hey, I am Mihir Modi
 
 ### Frontend Developer | MERN Learner | Mountain Enthusiast
 
@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirmodi14/)
 [![Email](https://img.shields.io/badge/-Say_Hello-D14836?style=flat&logo=gmail&logoColor=white)](mailto:modimihir960@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-250+_Solved-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/mihir_modi14)
+[![LeetCode](https://img.shields.io/badge/-250+_Solved-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/mihir_modi)
 
 </div>
 
