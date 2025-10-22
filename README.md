@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏔️ Hey, I am Mihir Modi
+# Hi there 👋, I'm Mihir Modi
 
 ### Frontend Developer | MERN Learner | Mountain Enthusiast
 
