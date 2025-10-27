@@ -42,7 +42,7 @@ When I'm not coding, you'll find me on mountain trails 🏔️ (that's me in my 
 **Reusable Patterns:**  
 [Multi-step Form Tabs](https://codesandbox.io/p/github/MihirModi14/vanilla-react-form-tabs) • [Dynamic Pagination](https://codesandbox.io/p/github/MihirModi14/vanilla-react-pagination)
 
-*Plus 20+ more experiments - some polished, some learning exercises, all teaching me something*
+*Plus 15+ more experiments - some polished, some learning exercises, all teaching me something*
 
 ---
 
